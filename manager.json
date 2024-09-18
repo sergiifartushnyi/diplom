@@ -1,0 +1,26 @@
+[
+    {
+        "first_name": "Володимир",
+        "last_name": "Киселев",
+        "middle_name": "Віталійович",
+        "birth_date": "2015-05-22 00:00:00",
+        "death_date": null,
+        "gender": "m"
+    },
+    {
+        "first_name": "Ірина",
+        "last_name": "Киселева",
+        "middle_name": "Юріївна",
+        "birth_date": "1990-10-13 00:00:00",
+        "death_date": null,
+        "gender": "f"
+    },
+    {
+        "first_name": "Ніна",
+        "last_name": "Ворвуль",
+        "middle_name": "Антонівна",
+        "birth_date": "1945-11-23 00:00:00",
+        "death_date": "2022-01-13 00:00:00",
+        "gender": "f"
+    }
+]
